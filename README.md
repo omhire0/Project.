@@ -1,4 +1,6 @@
-Bollywood Movie Dataset (2023-1951)
+BOLLYWOOD MOVIE DATASET (2023-1951)
+
+
 This dataset contains comprehensive information on Bollywood movies sorted by popularity from 2023 to 1951. It includes essential details such as Movie ID, Name, Year, Genre, Overview, Director, and Cast. Unlike many existing datasets, this collection uniquely incorporates the 'Overview' column, offering succinct synopses for each movie, enhancing its utility for content-based recommendation systems and similarity matrix analysis.
 
 Dataset Details
